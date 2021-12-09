@@ -1,5 +1,4 @@
 *.class
-build/
 *.iml
 settings.gradle
 .gradle
